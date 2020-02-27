@@ -1,0 +1,35 @@
+
+tes
+
+When you make a cocoa pod project you need to initialize by pressing
+Pod init
+So this creates a pod file inside our prodject
+Then you pod install but first lets open pod file if you have dependency then you edit it
+Xcworspace will have your pod project and cocoa pods and pods folder, padlock, with versions of library , we will no longer open our project in the same way we will use xcworkspace
+Please close any current Xcode sessions and use `CocoaPodsDemo.xcworkspace` for this project from now on.
+Pod installation complete! There are 0 dependencies from the Podfile and 0 total pods installed.
+
+to find the library you need then you google to find the package you need. there are some that are tranding like github trending .com
+alamo fire will be one we are using today
+
+remember the less dependency files the better. best practices for libraries in your project look at the issues and see it has been closed or being worked on or ignore. like is that the developer doing a good job at updating the dependency and as developers we can contribute to libraries nand it will show u way you like to support ets
+a way to boost your resume is to contribute to open source you can subit an issues and if you want to fix a bug make a pull request
+
+AlamoFire
+is the biggest networking framework for github is alamo fire
+here is the resource to it https://github.com/Alamofire/Alamofire
+
+
+anytime you add a new libray in you r file by saying pod and the library and whatever number version
+and everytime you edit your pod file you nave to type pod install in order to run it
+
+
+when installing pods you need to put then in '' marks as so ex: swift package manager
+pod 'SnapKit'
+
+SNAPKIT
+http://snapkit.io/docs/
+so many things you can do read the documentation
+you can update constraints or remake constraints
+
+CTRL CMMD Z will make the simulator shake up
